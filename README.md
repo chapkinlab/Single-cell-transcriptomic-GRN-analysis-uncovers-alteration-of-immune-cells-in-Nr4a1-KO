@@ -11,7 +11,7 @@ Chapkin Lab · Texas A&M University
 
 ## Pipeline Overview
 
-![Nr4a1 KO scRNA-seq analysis workflow](Nr4a1_ko_workflow2.svg)
+![Nr4a1 KO scRNA-seq analysis workflow](Nr4a1_ko_workflow2.png)
 
 ---
 
