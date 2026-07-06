@@ -9,6 +9,12 @@ Chapkin Lab · Texas A&M University
 
 ---
 
+## Pipeline Overview
+
+![Nr4a1 KO scRNA-seq analysis workflow](Nr4a1_ko_workflow2.svg)
+
+---
+
 ## Data availability
 
 Raw sequencing data (h5 files) and processed count matrices are deposited at the Gene Expression Omnibus (GEO): **[GSE######]** *(accession to be updated upon acceptance).*
@@ -50,6 +56,7 @@ The full analysis can be reproduced starting from the GEO h5 files using the fol
 ├── 2023_nr4a1_colon_meta_info.xlsx          # Sample-level metadata
 ├── Nr4a1_Exon_Detailed_Analysis.xlsx        # Exon-level detection output
 ├── Nr4a1_Exon_Summary_Table.csv             # Exon summary table
+├── Nr4a1_ko_workflow2.svg                   # Analysis pipeline overview figure
 └── copy_sc_data.sh                          # Shell script for staging raw data files
 ```
 
