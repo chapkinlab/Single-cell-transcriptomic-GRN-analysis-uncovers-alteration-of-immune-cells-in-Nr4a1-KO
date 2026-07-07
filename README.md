@@ -17,7 +17,7 @@ Chapkin Lab · Texas A&M University
 
 ## Data availability
 
-Raw sequencing data (h5 files) and processed count matrices are deposited at the Gene Expression Omnibus (GEO): **[GSE######]** *(accession to be updated upon acceptance).*
+Raw sequencing data (h5 files) and processed count matrices are deposited at the Gene Expression Omnibus (GEO): **[GSE306798]** *(accession to be updated upon acceptance).*
 
 The final annotated Seurat RDS object is available from the corresponding author upon reasonable request. It is not required for full reproducibility — see the **Reproducing the analysis** section below.
 
